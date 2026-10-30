@@ -12,4 +12,5 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 - **BCA- Computer Application**  
   *NIRMALA COLLAGE OF INFORMATION TECNOLOGY, CHALAKUDY (2012 – 2015)*
 
-  
+## 💼 Work Experience  
+### 🔹 Junior Analyst (2023-07 – Current) - *Mantle Solutions,Kochi*
