@@ -7,3 +7,4 @@ I'm a Data Analyst at Mantle Solutions, passionate about transforming raw data i
 Skilled in **Power BI**, **Excel**, **DAX**, and **SQL**, I build dynamic dashboards, streamline reporting workflows, and support data-driven decision-making.  
 I bring a versatile approach to data storytelling, stakeholder engagement, and team leadership, with experience spanning business analytics.  
 🚀 Let’s turn data into impactful stories!
+
