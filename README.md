@@ -8,3 +8,8 @@ Skilled in **Power BI**, **Excel**, **DAX**, and **SQL**, I build dynamic dashbo
 I bring a versatile approach to data storytelling, stakeholder engagement, and team leadership, with experience spanning business analytics.  
 🚀 Let’s turn data into impactful stories!
 
+## 🎓 Education  
+- **BCA- Computer Application**  
+  *NIRMALA COLLAGE OF INFORMATION TECNOLOGY, CHALAKUDY (2012 – 2015)*
+
+  
